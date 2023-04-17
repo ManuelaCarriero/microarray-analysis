@@ -4,8 +4,7 @@
 Pyrococcus Furiosus is an extremophile of Archea domain. It can adapt to extreme environmental conditions hence it is of interest to study what are the mechanisms that lead to their strength.
 In the experiment where cellular cultures were exposed to 2500 Gy of gamma irradiation made by Jocelyne DiRuggiero et al. in *Microarray analysis of the hyperthermophilic archaeon Pyrococcus Furiosus exposed to gamma irradiation*, two interesting features come out: 
 one is that following irradiation a large fraction of the changes are decreases in mRNA levels suggesting a down-regulation of metabolic functions following stress induction;
-an other is that very few DNA repair genes displayed significant differential expression in P. furiosus following gamma irradiation suggesting that DNA repair proteins in P. Furiosus 
-and several other archaea are constitutively expressed and that they may be present in the cell at a level sufficient to maintain the integrity of the cell's genetic material.<br>
+an other is that very few DNA repair genes displayed significant differential expression in P. furiosus following gamma irradiation suggesting that DNA repair proteins in P. Furiosus are constitutively expressed and that they may be present in the cell at a level sufficient to maintain the integrity of the cell's genetic material.<br>
 In the statistical data analysis that I made, I considered the time trend behavior of gene expression (of just 5 genes) assessing that it can be well modeled by a linear regression model with negative slope.<br>
 Furthermore, I considered 5 DNA repair genes and I attested that there is no significant changes in gene expression following the irradiation.
 
