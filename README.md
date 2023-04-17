@@ -10,7 +10,7 @@ Furthermore, I considered 5 DNA repair genes and I attested that there is no sig
 
 ## Contents
 The repository contains:
-* [statistics.R](https://github.com/ManuelaCarriero/microarray-analysis/blob/main/statistics.R) R code used for the analysis;
+* [statistics.R](https://github.com/ManuelaCarriero/microarray-analysis/blob/main/statistics.R) R code used for the analysis (R version 4.1.3);
 * [stat_presentation.pptx](https://github.com/ManuelaCarriero/microarray-analysis/blob/main/stat_presentation.pptx) presentation of statistical data analysis;
 * [GSE5919_series_matrix.txt](https://github.com/ManuelaCarriero/microarray-analysis/blob/main/GSE5919_series_matrix.txt) data file.<br>
 Then I made the following data files for the investingation:
