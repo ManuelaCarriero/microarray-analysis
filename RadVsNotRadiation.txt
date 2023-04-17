@@ -1,0 +1,106 @@
+Gene	mRNA	Condition
+ID-1	-0.181385669	Irradiated
+ID-1	-0.059647494	Irradiated
+ID-1	0.104476117	Irradiated
+ID-1		Irradiated
+ID-1		Irradiated
+ID-1		Irradiated
+ID-1	-0.052190978	Irradiated
+ID-1	-0.040484945	Irradiated
+ID-1	0.194226742	Irradiated
+ID-1	-0.501601326	Irradiated
+ID-1	0.102342605	Irradiated
+ID-1	-0.127143845	Irradiated
+ID-1	-0.008523742	Irradiated
+ID-1	-0.102946211	Irradiated
+ID-1	-0.042894028	Irradiated
+ID-1	0.002922923	Irradiated
+ID-1	-0.134394347	Irradiated
+ID-1	-0.214204393	Irradiated
+ID-1		Irradiated
+ID-4	-0.138122686	Irradiated
+ID-4	0.203242361	Irradiated
+ID-4	0.097935502	Irradiated
+ID-4		Irradiated
+ID-4		Irradiated
+ID-4		Irradiated
+ID-4	0.147068146	Irradiated
+ID-4	-0.089430917	Irradiated
+ID-4	0.331565412	Irradiated
+ID-4	-0.034572422	Irradiated
+ID-4	-0.129896329	Irradiated
+ID-4	0.324191	Irradiated
+ID-4	0.470108479	Irradiated
+ID-4	-0.027268223	Irradiated
+ID-4	0.232304713	Irradiated
+ID-4	0.090348708	Irradiated
+ID-4	0.070848402	Irradiated
+ID-4	0.181540708	Irradiated
+ID-4	-0.502255367	Irradiated
+ID-5	-0.267631441	Irradiated
+ID-5	-0.368647839	Irradiated
+ID-5	-0.040910404	Irradiated
+ID-5	-0.003983171	Irradiated
+ID-5	-0.003983171	Irradiated
+ID-5	-0.003983171	Irradiated
+ID-5	-0.14980589	Irradiated
+ID-5	-0.119449612	Irradiated
+ID-5	-0.309154214	Irradiated
+ID-5	-0.487589361	Irradiated
+ID-5	0.272803506	Irradiated
+ID-5	-0.421733575	Irradiated
+ID-5		Irradiated
+ID-5	-0.467108567	Irradiated
+ID-5	0.024868338	Irradiated
+ID-5	-0.156025729	Irradiated
+ID-5	-0.044680175	Irradiated
+ID-5	-0.206716896	Irradiated
+ID-5	-0.272014193	Irradiated
+ID-6	-0.230499883	Irradiated
+ID-6	-0.238597397	Irradiated
+ID-6	-0.118130949	Irradiated
+ID-6	0.349957464	Irradiated
+ID-6	0.349957464	Irradiated
+ID-6	0.349957464	Irradiated
+ID-6	0.172048587	Irradiated
+ID-6	-0.186226994	Irradiated
+ID-6	0.16113822	Irradiated
+ID-6	-0.293029136	Irradiated
+ID-6	-0.111636253	Irradiated
+ID-6	-0.044189887	Irradiated
+ID-6	0.081555274	Irradiated
+ID-6	-0.048106079	Irradiated
+ID-6	-0.05853566	Irradiated
+ID-6	0.010407814	Irradiated
+ID-6	-0.066981809	Irradiated
+ID-6	-0.09828484	Irradiated
+ID-6		Irradiated
+ID-7	-0.315190986	Irradiated
+ID-7	-0.005102456	Irradiated
+ID-7	0.221556197	Irradiated
+ID-7	0.206584568	Irradiated
+ID-7	0.206584568	Irradiated
+ID-7	0.206584568	Irradiated
+ID-7	0.102649006	Irradiated
+ID-7		Irradiated
+ID-7	-0.011777384	Irradiated
+ID-7	-0.36963487	Irradiated
+ID-7	-0.054853074	Irradiated
+ID-7	-0.230240699	Irradiated
+ID-7	-0.210508323	Irradiated
+ID-7	-0.208889919	Irradiated
+ID-7	-0.050763372	Irradiated
+ID-7	0.023073782	Irradiated
+ID-7	-0.095118984	Irradiated
+ID-7	-0.091076071	Irradiated
+ID-7	-0.330257395	Irradiated
+ID-1	0.102772933	reference
+ID-1	0.247872038	reference
+ID-4	0.216357646	reference
+ID-4	0.126169901	reference
+ID-5	-0.237278842	reference
+ID-5	-0.066908278	reference
+ID-6	0.105082639	reference
+ID-6		reference
+ID-7	-0.050061512	reference
+ID-7	-0.143484352	reference
